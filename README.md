@@ -1,4 +1,4 @@
-<h1 align="center"><img src=https://img.shields.io/github/repo-size/uditss03/Mask_Detector> <img src=https://img.shields.io/badge/python-v3.6+-blue.svg></h1>
+<h1 align="center"><img src=https://img.shields.io/github/repo-size/uditss03/Mask_Detector> <img src=https://img.shields.io/badge/python-v3.6+-blue.svg> <img src=https://img.shields.io/github/license/uditss03/Mask_Detector></h1>
 
 <h1 align="center"> Mask Detector</h1>
 
