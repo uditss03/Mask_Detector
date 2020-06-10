@@ -1,3 +1,3 @@
 # Mask Detector
 
-Detecting Mask in Covid_19 situation.
+Detecting Mask in Covid 19 situation.
