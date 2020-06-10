@@ -2,7 +2,7 @@
 
 <h1 align="center"> Mask Detector</h1>
 
-<p align="center">Detecting Mask in Covid 19 situation.</p>
+<p align="center">Detecting Mask in Covid 19 situation using pytorch, detectron2 and pretrained model(mask_rcnn).</p>
 
 ## Demo
 
