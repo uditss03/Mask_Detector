@@ -36,7 +36,7 @@ from pylab import rcParams
 import matplotlib.pyplot as plt
 import matplotlib as rc
 
-df = pd.read_csv('labels_data.csv')
+df = pd.read_csv('data/labels_data.csv')
 
 unique_files = df.file_name.unique()
 
@@ -55,7 +55,7 @@ def create_dataset_dicts(df, classes):
     record = {}
 
     image_df = df[df.file_name == img_name]
-    file_path = f'image_data{img_name}'
+    file_path = f'data/image_data{img_name}'
     record['file_name'] = file_path
     record['image_id'] = img_id 
     record['height'] = int(image_df.iloc[0].height)
