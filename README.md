@@ -32,7 +32,7 @@ Run the code in terminal for installation.
 ```
  $ mkdir output
 ```
-6. Download weights and save in output dir.
+6. Download <a href="https://drive.google.com/file/d/1-C_vWLOaP98uIqDJ3uEZsP4EaTwWcz3B/view?usp=sharing">weights</a> and save in output dir.
 
 ## Run the code
 
