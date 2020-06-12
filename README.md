@@ -1,4 +1,4 @@
-<h1 align="center"><img src=https://img.shields.io/github/repo-size/uditss03/Mask_Detector> <img src=https://img.shields.io/badge/python-v3.6+-blue.svg> <img src=https://img.shields.io/github/license/uditss03/Mask_Detector></h1>
+<h1 align="center"><img src=https://img.shields.io/badge/python-v3.6+-blue.svg> <img src=https://img.shields.io/badge/pytorch-v%201.5-brightgreen> <a href="https://github.com/facebookresearch/detectron2"><img src=https://img.shields.io/badge/Detectron-2-lightgrey></a> <img src=https://img.shields.io/github/repo-size/uditss03/Mask_Detector> <img src=https://img.shields.io/github/license/uditss03/Mask_Detector> <a href="https://www.linkedin.com/in/udit-sharma-662304158/"><img src=https://img.shields.io/badge/Linked-in-blue></a></h1>
 
 <h1 align="center"> Mask Detector</h1>
 
