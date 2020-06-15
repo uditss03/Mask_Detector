@@ -5,7 +5,7 @@
 <p align="center">Detecting Mask in Covid 19 situation using pytorch, detectron2 and pretrained model(mask_rcnn).</p>
 
 ## Demo
-
+<p align="center"><img src="https://user-images.githubusercontent.com/34382779/84691735-3fc8c700-af62-11ea-9f93-737bb120e741.gif" width="600" height="500"><p><br>
 <img src="https://github.com/uditss03/Mask_Detector/blob/master/result/result_4.jpeg?raw=true" width="400" height="400"> <img src="https://github.com/uditss03/Mask_Detector/blob/master/result/result_3.jpg?raw=true" width="450" height="400">
  
 ## Installation
